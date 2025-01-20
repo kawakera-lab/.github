@@ -11,5 +11,6 @@ TeamsはOrganizationに所属するメンバーをグループ化する機能で
 - Privateリポジトリを作成すると，作成したユーザーとOwner権限を持つメンバーからのみアクセスできる状態になります
 - 他のメンバーにPrivateリポジトリを共有したい場合は，対象リポジトリの**Settings > Collaborators and teams > Manage access > Add teams**からアクセス権限を与えるグループを選択してください
 - ただし，在学生の研究のコードなどはOBに共有しないでください
+  - Team を member にすれば在校生のみ見れるようになります
 
 <img width="600" alt="image" src="https://github.com/kawakera-lab/.github/assets/74246282/148e1101-04a2-47e8-ae07-5dfa9c4c3f98">
